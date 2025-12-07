@@ -1,0 +1,15 @@
+### BS Variables ###
+# S = Underlying Price
+# K = Strike Price
+# T = Time to Expiration
+# r = Risk-free Interest Rate (annualized)
+# sigma = Volatility of the Underlying Asset (annualized)
+
+S = 42
+K = 40
+T = 0.5
+r = 0.1
+sigma = 0.2
+
+### BS Formulas ###
+
